@@ -1,2 +1,2 @@
 # simple-drawing-canvas
-A simple drawing application with HTML5 canvas and JQUERY
+A simple drawing application with HTML5 canvas and jQuery
